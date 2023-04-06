@@ -6,7 +6,7 @@ import { CertificateSchema } from './Model/certificate.model';
 import { EducationSchema } from './Model/education.model';
 import { FrameworkSchema } from './Model/framework.model';
 import { OtherSkillSchema } from './Model/otherSkill.model';
-import { ProgramingLangSchema } from './Model/programingLang.model';
+import { ProgramingLangSchema } from './Model/ProgramingLang.model';
 
 @Module({
   imports: [
